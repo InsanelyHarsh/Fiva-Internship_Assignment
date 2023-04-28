@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4FE2489-6C58-4129-A00D-03098B589B86"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66A7BA3E-3455-46D0-A074-D3FC20C08A01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getIconDetail(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66A7BA3E-3455-46D0-A074-D3FC20C08A01 - 57bb930ba647f752"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "66A7BA3E-3455-46D0-A074-D3FC20C08A01 - 57c2873171f3f817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "951E8B57-70A4-4FAB-9E48-4DF447714D47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getIconDetail(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "951E8B57-70A4-4FAB-9E48-4DF447714D47 - 57c2873171f3f8b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "951E8B57-70A4-4FAB-9E48-4DF447714D47 - 708d785327ea4952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "951E8B57-70A4-4FAB-9E48-4DF447714D47 - 2ab4196721d7490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "951E8B57-70A4-4FAB-9E48-4DF447714D47 - b2d57de8e5f32e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B9A6BE7-0B69-4E07-B2A9-978C68092FB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getIconDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "414EC79F-26BE-440B-BF3A-97768B7EE66E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getIconDetail(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "414EC79F-26BE-440B-BF3A-97768B7EE66E - b2d57de8e5f3215c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "414EC79F-26BE-440B-BF3A-97768B7EE66E - c4f4f4ea5728dd57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for Fiva_Internship_Assignment.IconDetailViewModel.getIconDetail(with: Swift.String) async -&gt; ()"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3D64282-D049-458C-ACDA-7FFBF00FF2E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/IconDetail/IconDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getIconDetail(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FFC1DFD-2FFD-4332-8B4C-86A4F4B54D96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/Services/NetworkingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "getJSON(url:type:headers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FFC1DFD-2FFD-4332-8B4C-86A4F4B54D96 - c1be600e3f922db4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fiva_Internship_Assignment.NetworkingService.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, type: &#x3c4;_0_0.Type, headers: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Services/NetworkingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "4FFC1DFD-2FFD-4332-8B4C-86A4F4B54D96 - fba103606325518b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Fiva_Internship_Assignment.NetworkingService.getJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, type: &#x3c4;_0_0.Type, headers: Swift.Dictionary&lt;Swift.String, Swift.String&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Fiva-Internship_Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshyadav/Desktop/Code/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Fiva-Internship_Assignment/Services/NetworkingService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C868F698-866C-4B48-8AFF-11DDC3D79F8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/Services/NetworkingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "getJSON(url:type:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A09B33CE-2170-4BFF-B185-797103D0D4E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fiva-Internship_Assignment/Services/NetworkingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "getJSON(url:type:headers:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
