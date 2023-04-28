@@ -6,7 +6,7 @@ This is Fiva Internship assignment for iOS Developer Intern.
 ## Tech Used
 
 
-|                |ASCII                         
+|                |                         
 |----------------|-------------------------------
 |Language         |`Swift`        
 |Framework       |`SwiftUI, Combine`   
@@ -15,7 +15,7 @@ This is Fiva Internship assignment for iOS Developer Intern.
 - `Async Await` Concurrency Libary used to Network Calls
 - Caching Images using `NSCache`
 -  For Navigation, new `Navigation Stack` was used
-- Search Query debouced using `Combine`
+- Search Query debounced using `Combine`
 
 
 ## Improvement Areas
