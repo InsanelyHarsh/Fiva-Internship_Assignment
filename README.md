@@ -22,6 +22,7 @@ This is Fiva Internship assignment for iOS Developer Intern.
 
 Due to Acadmics (as It is end to semester), I have taken some approaches that I would not personally take in Real Project.
 
+- Pagination is not implemented, which I feel must be there.
 - Random Color changing each time view gets reloaded
 - Fetching Images more effectively
     - Showing `ProgressView` while loading and default image if fetch failed and trying again either clicking on image or Independently
